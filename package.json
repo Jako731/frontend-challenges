@@ -67,5 +67,8 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.2.7"
   }
 }
