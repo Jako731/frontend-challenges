@@ -6,6 +6,9 @@ module.exports = {
       aspectRatio: {
         '2/3': '2 / 3',
       },
+      rotate: {
+        '17': '17deg',
+      },
     },
   },
   plugins: [],
