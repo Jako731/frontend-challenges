@@ -11,4 +11,7 @@ Router.map(function () {
   this.route('index', { path: '/' });
 
   this.route('liking-system');
+  this.route('discord', function () {
+    this.route('index', { path: '/' });
+  });
 });
